@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
+
+.top-links{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+}
+
+.top-links:hover{
+    color: #000 !important;
+}
+
+.top-icons-inner{
+    padding: 8px;
+    height: 34px;
+    width: 34px;
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    background:#fff;
+  background:transparent;
+  color:#fff;
+    
+}
+
+.top-icons-inner:hover{
+    
+    background:rgba(165, 164, 164, 0.6);
+}
+
+
+
+
+.top-menu-hover:hover{
+    
+    color: #616161;
+    background: #fafafa;
+    border-radius: 10px;
+    cursor: default;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+    border-radius: 10px;
+}
+
+.navbar-brand{
+    font-family:'Samarkan Normal';
+    font-weight:normal;
+    font-size: 30px;
+}
+
+.hero-text{
+    background-color: linear-gradient(to right, #007FFF, #0059B2) !important;
+   
+}
